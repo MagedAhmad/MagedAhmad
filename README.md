@@ -16,7 +16,7 @@ In my free time I've contribute open-source projects and packages like:
 - [laraeast/laravel-sluggable](https://github.com/laraeast/laravel-sluggable)
 - [the-control-group/voyager](https://github.com/the-control-group/voyager)
 
-Mail character skills: 
+Main character skills: 
 
 - ✔️  Problem Solver 
 - ❤️‍🔥 Passionate Developer
