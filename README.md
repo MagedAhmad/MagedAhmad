@@ -6,9 +6,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-@maged-raslan?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maged-raslan/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@DevMaged-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/DevMaged "Follow on Twitter")
 
+[![Maged Raslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagedAhmad)](https://github.com/MagedAhmad/github-readme-stats)
+
 - 💻 I’m currently working as Full stack developer.
 - 🏠 I’m currently living at Egypt.
-- 🌱 I’m currently learning Shopify & ReactJs.
+- 🌱 I’m currently learning Devops.
 - 👯 I’m always looking to collaborate on any open source projects to gain more experience.
 
 In my free time I've contribute open-source projects and packages like:
