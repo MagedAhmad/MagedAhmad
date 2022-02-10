@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-@maged-raslan?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maged-raslan/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@DevMaged-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/DevMaged "Follow on Twitter")
 
-Personal website:https://maged-raslan.me/
+Personal blog/portfolio: https://maged-raslan.me/
 
 [![Maged Raslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagedAhmad)](https://github.com/MagedAhmad)
 
